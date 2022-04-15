@@ -1,0 +1,351 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+body{
+    font-family: roboto;
+    
+    
+}
+@font-face {
+    font-family: roboto ;
+    src: url("/fonts/Anton-Regular.ttf");
+}
+nav>ul>li{
+    display: inline-block;
+    
+    
+}
+nav{
+padding: 15px;
+/* width: 100%; */
+word-spacing: 30px;
+/* margin-left: 1175px; */
+/* margin-top: -50px; */}
+
+nav>ul>li>a{
+    text-decoration: none;
+}
+.skizb1>a{
+    font-size: 40px;
+    color: black;
+    text-decoration: none;
+    text-transform: none;
+    margin-left: 40px;
+    
+}
+
+    
+ a:hover{
+     color: green;
+ }   
+
+nav>ul>li>a{
+    text-transform: none;
+    text-decoration: none;
+}
+
+
+.parent{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.skizb5{
+
+    margin-top: 200px;
+    margin-left: 100px;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+}
+
+.skizb7{
+    color: green;
+
+
+
+}
+.skizb6{
+    margin-left: 80px;
+    letter-spacing: 10px;
+    color: green;
+}
+.skizb8{
+    margin-left: 63px;
+    margin-top: 42px;
+}
+.skizb9{
+    padding: 30px;
+    margin-top: 60px;
+    margin-left: 56px;
+    width: 537px;
+    box-shadow: #b0b0b0 0px -2px 9px 0px;
+    border: inherit;
+}
+.skizb10{
+    width: 240px;
+    height: 79px;
+    background-color: black;
+    color: white;
+}
+.skizb11{
+    width: 231px;
+    height: 61px;
+    background-color: black;
+    color: white;
+    margin-top: 209px;
+    margin-left: -790px;
+    position: absolute;
+}
+.skizb12{
+    width: 231px;
+    height: 61px;
+    background-color: black;
+    color: white;
+    margin-top: 209px;
+    margin-left: -500px;
+    position: absolute;
+}
+.skizb13{
+    width: 300px;
+    height: 300px;
+    margin-left: 1000px;
+    margin-top: -279px;
+}
+.skizb14{
+    width: 1800px;
+    height: 777px;
+    margin-left: 39px;
+    margin-top: 354px;
+    border: 1px solid rgb(218, 218, 218);
+    background-color: rgb(218, 218, 218);
+    box-shadow: #b0b0b0 0px -2px 9px 0px;
+}
+.skizb15{
+    width: 220px;
+    height: 96px;
+    background-color: green;
+    margin-top: 100px;
+    margin-left: 216px;
+    color: white;
+    font-size: 30px;
+}
+.skizb16{
+    margin-top: 29px;
+    margin-left: 216px;
+
+
+}
+
+.skizb17{
+    width: 189px;
+    height: 66px;
+    margin-top: 50px;
+    margin-left: 221px;
+    background-color: black;
+    color: white;
+}
+.skizb18{
+    margin-top: 109px;
+    margin-left: -414px;
+    position: absolute;
+    
+}
+.skizb19{
+    margin-top: -351px;
+    margin-left: 440px;
+    width: 883px;
+    height: 603px;
+    position: absolute;
+    
+    
+}
+
+
+.skizb10:hover{
+    background-color: green;
+
+}
+.skizb11:hover{
+    background-color: green;
+}
+.skizb12:hover{
+    background-color: green;
+
+}
+.skizb21{
+  text-align: center;  
+}
+
+.skizb22{
+    text-align: center;
+    margin-left: -422px;
+    margin-top: 100px;
+}
+.skizb23{
+    width: 312px;
+    height: 100px;
+    margin-left: 575px;
+}
+.skizb24{
+    margin-left: 915px;
+    margin-top: -184px;
+    
+}
+.skizb25{
+    margin-left: 572px;
+    margin-top: -91px;
+}
+.skizb27{
+    text-align: right;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.skizb28{
+    width: 1890px;
+    min-height: 987px;
+    background-image: url(" images/test.png");
+    background-repeat:   no-repeat;
+    margin-left: 3px;
+    margin-top: 23px;
+    
+
+}
+.skizb29{
+    width: 1021px;
+    height: 275px;
+    border: 1px solid green;
+    padding: 30px;
+    margin-top: -638px;
+    margin-left: 420px;
+    background-color: green;
+    
+    
+}
+.skizb31{
+    margin-left: 272px;
+    margin-top: -146px;
+    width: 639px;
+   
+}
+
+.span{
+    color: green;
+}
+
+.parent{
+    background-color: #b0b0b0;
+}
+.skizb32{
+    width: 1872px;
+    height: 1046px;
+    margin-top: 586px;
+    background-image: url("/images/banner2.png");
+}
+
+
+.skizb33{
+    text-align: center;
+    margin-top: -127px;
+    font-size: 56px;
+}
+.skizb34{
+    width: 500px;
+    height: 459px;
+    border: 1px solid white;
+    margin-top: -809px;
+    margin-left: 417px;
+    display: flex;
+    background-color: white;
+    box-shadow: white;
+}
+.table{
+    width: 474px;
+    padding: 8px;
+    margin: 10px
+}
+.table4{
+    margin: 10px;
+    width: 450px;
+}
+.verj1{
+    width: 204px;
+    height: 71px;   
+    margin-top: 45px;
+    background-color: rgb(58, 57, 57);
+    color: white;
+    border: solid white;
+    margin-left: 281px;
+    
+}
+.verj{
+    margin-top: 122px;
+    height: 403px;
+}
+footer{
+    background-color: rgb(58, 57, 57);
+}
+.verj2{
+    color: white;
+    margin-top: 12px;
+    margin-left: 305px;
+    position: absolute;
+    letter-spacing: 10px;
+    font-size: 40px;
+}
+.verj3{
+    margin-top: 86px;
+    margin-left: 304px;
+    color: white;
+}
+.verj4{
+    margin-left: 623px;
+    margin-top: -167px;
+    font-size: 40px;
+    color: white;
+}
+.verj5{
+    margin-left: 674px;
+    margin-top: 7px;
+    
+    
+}
+.verj6{
+    color: white;
+    
+    text-decoration: none;
+}
+.verj5>li{
+    
+}
+.verj7{
+    margin-left: 1128px;
+    margin-top: -167px;
+    font-size: 40px;
+    color: white;
+}
+.verj8{
+    margin-left: 1128px;
+    margin-top: 14px;
+    width: 383px;
+    height: 60px;
+    font-size: 20px;
+}
+.verj9{
+    width: 200px;
+    height: 55px;
+    border-radius: 200px;
+    margin-top: 97px;
+    margin-left: -404px;
+    position: absolute;
+    background-color: green;
+    color: white;
+}
+.verj10{
+    text-align: center;
+    background-color: green;
+    color: white;
+}
